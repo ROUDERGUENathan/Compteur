@@ -27,7 +27,3 @@ g++ -o compteur main.cpp
 
 - C++
 - g++
-
-## Auteur
-
-Nathan Rouderguen
